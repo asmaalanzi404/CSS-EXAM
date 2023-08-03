@@ -1,0 +1,67 @@
+/*iphone*/
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+      padding: -13px;
+    margin: -2%;
+    width: 103%;
+    position:center;
+    }
+    
+     h3{
+        color: rgb(8, 5, 0);
+        background-color: rgb(86, 83, 83);
+        
+    }
+    .haed{
+        padding: 111px;
+    margin: 11px;
+    }
+    .container h3{
+    padding: 21px;
+    margin: -2%;
+    
+#icon{
+    display: flex;
+    align-items: flex-end;
+}
+.n1{
+    position: absolute;
+    left: 109px;
+    top: 317px;
+}
+}
+
+ .h2{
+display: flex;
+flex-direction: row;
+list-style: none;
+justify-content: center;
+margin-inline: 10%;
+
+ }
+.img{
+    display: grid;
+
+}
+
+/*Desktop*/
+@media only screen and (min-width: 992px){
+body{
+    background-color: aqua;
+}   
+
+
+}}
+    /*
+    min-width: 100vh;
+    display:grid;
+    grid-template-columns: repeat(3,auto);
+    justify-items: center;
+    align-items: center;
+
+}
+container
+img{
+    width: 100%;
